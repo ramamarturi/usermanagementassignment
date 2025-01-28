@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https://github.com/ramamarturi/ajackusassignment.git/static/css/main.9e0edf97.css",
+    "main.js": "/https://github.com/ramamarturi/ajackusassignment.git/static/js/main.4d6afd28.js",
+    "static/js/488.3d42147f.chunk.js": "/https://github.com/ramamarturi/ajackusassignment.git/static/js/488.3d42147f.chunk.js",
+    "index.html": "/https://github.com/ramamarturi/ajackusassignment.git/index.html",
+    "main.9e0edf97.css.map": "/https://github.com/ramamarturi/ajackusassignment.git/static/css/main.9e0edf97.css.map",
+    "main.4d6afd28.js.map": "/https://github.com/ramamarturi/ajackusassignment.git/static/js/main.4d6afd28.js.map",
+    "488.3d42147f.chunk.js.map": "/https://github.com/ramamarturi/ajackusassignment.git/static/js/488.3d42147f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e0edf97.css",
+    "static/js/main.4d6afd28.js"
+  ]
+}
